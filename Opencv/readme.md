@@ -4,8 +4,8 @@
 
 ### Study Plan
 > 1주차(~3/18) 
-  - Chap2 OpenCV로 시작하는 컴퓨터 비전 
-  - Chap3 영상 처리
+  - [Chap2 OpenCV로 시작하는 컴퓨터 비전]https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/1%EC%A3%BC%EC%B0%A8_chap02.pdf 
+  - [Chap3 영상 처리]https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/1%EC%A3%BC%EC%B0%A8_chap03.pdf
 
 > 2주차(~3/25) - Chap4 에지와 영역 & Chap5 지역 특징
 
