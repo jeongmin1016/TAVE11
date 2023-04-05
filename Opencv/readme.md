@@ -4,12 +4,16 @@
 
 ### Study Plan
 > 1주차(~3/18) 
-  - (Chap2 OpenCV로 시작하는 컴퓨터 비전)https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/1%EC%A3%BC%EC%B0%A8_chap02.pdf 
-  - [Chap3 영상 처리]https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/1%EC%A3%BC%EC%B0%A8_chap03.pdf
+  - [Chap2 OpenCV로 시작하는 컴퓨터 비전](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/1%EC%A3%BC%EC%B0%A8_chap02.pdf)
+  - [Chap3 영상 처리](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/1%EC%A3%BC%EC%B0%A8_chap03.pdf)
 
-> 2주차(~3/25) - Chap4 에지와 영역 & Chap5 지역 특징
+> 2주차(~3/25) 
+  - [Chap4 에지와 영역](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/2%EC%A3%BC%EC%B0%A8_chap04.pdf)
+  - [Chap5 지역 특징](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/2%EC%A3%BC%EC%B0%A8_chap05.pdf)
 
-> 3주차(~4/1) - Chap6 비전 에이전트 & Chap7 딥러닝 버전
+> 3주차(~4/1) 
+  - [Chap6 비전 에이전트](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/3%EC%A3%BC%EC%B0%A8_chap06.pdf) 
+  - [Chap7 딥러닝 버전](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/3%EC%A3%BC%EC%B0%A8_chap07.pdf)
 
 > 4주차(~4/8) - Chap8 컨볼루션 신경망 & Chap9 인식
 
