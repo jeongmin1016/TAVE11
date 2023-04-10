@@ -17,7 +17,9 @@
   - [Chap6 비전 에이전트](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/3%EC%A3%BC%EC%B0%A8_chap06.pdf) 
   - [Chap7 딥러닝 버전](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/3%EC%A3%BC%EC%B0%A8_chap07.pdf)
 
-> 4주차(~4/8) - Chap8 컨볼루션 신경망 & Chap9 인식
+> 4주차(~4/8) 
+  - Chap8 컨볼루션 신경망 
+  - Chap9 인식
 
 > 5주차(~4/15) - Chap10 & Chap11 
 
