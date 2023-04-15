@@ -18,9 +18,10 @@
   - [Chap7 딥러닝 버전](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/3%EC%A3%BC%EC%B0%A8_chap07.pdf)
 
 > 4주차(~4/8) 
-  - Chap8 컨볼루션 신경망 
+  - [Chap8 컨볼루션 신경망](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/4%EC%A3%BC%EC%B0%A8_chap08.pdf)
   - Chap9 인식
 
-> 5주차(~4/15) - Chap10 동적 비전 & Chap11 비전 트랜스포머
+> 5주차(~4/15)  
+  - [Chap10 동적 비전](https://github.com/jeongmin1016/TAVE11/blob/main/Opencv/5%EC%A3%BC%EC%B0%A8_chap10.pdf)
 
-> 6주차(~4/29) - Chap12 3차원 비전 & Chap13 생성 비전
+> 6주차(~4/29) - & Chap11 비전 트랜스포머 & Chap12 3차원 비전 & Chap13 생성 비전
